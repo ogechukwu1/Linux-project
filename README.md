@@ -132,7 +132,7 @@ __mv__ means _move_. It moves files and directories from one directory to anothe
 
 `mv mydata music`
 
-![](./images/19.png)
+![](./images/71.png)
 
 __renaming a file or directory__
 
@@ -574,7 +574,7 @@ __tar__ stands for tape archive, which is used to create Archive and extract the
 
 `tar -tvf mymusic.tar country` _to see the file you created_.
 
-`tar -xvf mymusic.tar country` _to get back all the file.
+`tar -xvf mymusic.tar country` _to get back all the file._
 
 ![](./images/70.png)
 
